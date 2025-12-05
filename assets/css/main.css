@@ -11,11 +11,11 @@
 }
 
 body {
-  font-family: "Vazir", Tahoma, sans-serif;
+  font-family: "Vazir", sans-serif !important;
 }
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
 :root {
-  --ff-primary: Vazir;
+  --ff-primary: "Vazir";
   --background-color: #ffffff; /* Background color for the entire website, including individual sections */
   --default-color: #212529; /* Default color used for the majority of the text content across the entire website */
   --heading-color: #21413c; /* Color for headings, subheadings and title throughout the website */
