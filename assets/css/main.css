@@ -73,6 +73,9 @@ a:hover {
   color: color-mix(in srgb, var(--accent-color), transparent 25%);
   text-decoration: none;
 }
+P{
+  font-family: var(--ff-primary);
+}
 
 h1,
 h2,
